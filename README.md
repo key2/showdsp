@@ -23,6 +23,8 @@ are our own, chosen against the oracle corpus.
 **Full API documentation: [API.md](API.md)** — CLI JSON schemas, every
 module/class/function with units and ranges, `music.*` widget mapping,
 realtime notes.
+**Measured comparison with Essentia: [COMPARISON.md](COMPARISON.md)** —
+accuracy tables, speed/footprint, live head-to-head, feature matrix.
 
 ## Build & run
 
